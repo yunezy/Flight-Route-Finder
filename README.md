@@ -29,3 +29,7 @@ Total Cost: $337
 Non-Stop Ticket Price: $1221
 You Saved:$824
 ```
+
+This shows that the program successfully calculates the cheapest flight route from airport of Honolulu, Hawaii to airport of Denver, Colorado.
+
+And it states the non-stop ticket price that goes directly from HNL to DEN, and the amount you can save by choosing the cheapest flight rather than the non-stop one.
