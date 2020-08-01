@@ -12,7 +12,7 @@ make
 
 This will execute the makefile and compile the project.
 
-##Run Project
+## Run Project
 
 To execute the complied project, type
 
